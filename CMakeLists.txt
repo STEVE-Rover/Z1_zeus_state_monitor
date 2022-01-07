@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(zeus_data_logging)
+project(zeus_state_monitor)
 
 find_package(catkin REQUIRED COMPONENTS
   rospy

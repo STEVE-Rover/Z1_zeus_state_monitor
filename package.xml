@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>zeus_data_logging</name>
+  <name>zeus_state_monitor</name>
   <version>0.0.0</version>
-  <description>The zeus_data_logging package</description>
+  <description>The zeus_state_monitor package</description>
 
   <maintainer email="jeremie.bourque@usherbrooke.ca">Jeremie Bourque</maintainer>
 
